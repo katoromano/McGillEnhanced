@@ -23,7 +23,8 @@ function getRecordingsBaseURLs() {
 	return recordingsBaseURLs;
 }
 
-function getMonthToSemester() {
+function 
+nction getMonthToSemester() {
 	let monthToSemester = {
 		1: "Winter",
 		5: "Summer",
